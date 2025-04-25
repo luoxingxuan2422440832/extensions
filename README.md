@@ -19,7 +19,7 @@ A simple Chrome extension that allows you to set a fixed playback speed for all 
 5. The extension should now be installed and active
 
 ## Usage
-
+![img.png](img.png)
 1. Click on the extension icon in the Chrome toolbar
 2. Use the slider to select your desired playback speed
 3. Click "Save and Apply" to set the speed
